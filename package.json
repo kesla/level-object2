@@ -1,0 +1,31 @@
+{
+  "name": "level-object2",
+  "version": "0.0.0",
+  "description": "A simple object implemented in leveldb",
+  "main": "object.js",
+  "dependencies": {
+    "level-encode": "^1.3.0",
+    "async-cache": "^0.1.5"
+  },
+  "devDependencies": {
+    "tap": "^0.4.9",
+    "level-sublevel": "^5.2.0",
+    "level-test": "^1.6.2"
+  },
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "keywords": [
+    "leveldb"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesla/level-object2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kesla/level-object2/issues"
+  },
+  "homepage": "https://github.com/kesla/level-object2"
+}
