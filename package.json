@@ -1,6 +1,6 @@
 {
   "name": "level-object2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple object implemented in leveldb",
   "main": "object.js",
   "dependencies": {
