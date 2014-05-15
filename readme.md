@@ -6,6 +6,12 @@ A simple object implemented in leveldb
 
 [![NPM](https://nodei.co/npm-dl/level-object2.png)](https://nodei.co/npm/level-object2/)
 
+## Deprecated
+
+This seemed like a fun and good idea at the time, but after some consideration I've come to the conclusion that [level-object](https://www.npmjs.org/package/level-object) already does what I want and what I need.
+
+So you should probably use that as well.
+
 ## Installation
 
 ```
